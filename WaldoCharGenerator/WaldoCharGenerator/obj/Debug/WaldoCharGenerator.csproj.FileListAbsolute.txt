@@ -1,0 +1,8 @@
+C:\GitHub_Projects\WhereIsWaldo\WaldoCharGenerator\WaldoCharGenerator\bin\Debug\WaldoCharGenerator.dll
+C:\GitHub_Projects\WhereIsWaldo\WaldoCharGenerator\WaldoCharGenerator\bin\Debug\WaldoCharGenerator.pdb
+C:\GitHub_Projects\WhereIsWaldo\WaldoCharGenerator\WaldoCharGenerator\bin\Debug\UnityEngine.dll
+C:\GitHub_Projects\WhereIsWaldo\WaldoCharGenerator\WaldoCharGenerator\obj\Debug\WaldoCharGenerator.csprojAssemblyReference.cache
+C:\GitHub_Projects\WhereIsWaldo\WaldoCharGenerator\WaldoCharGenerator\obj\Debug\WaldoCharGenerator.csproj.CoreCompileInputs.cache
+C:\GitHub_Projects\WhereIsWaldo\WaldoCharGenerator\WaldoCharGenerator\obj\Debug\WaldoCharGenerator.csproj.CopyComplete
+C:\GitHub_Projects\WhereIsWaldo\WaldoCharGenerator\WaldoCharGenerator\obj\Debug\WaldoCharGenerator.dll
+C:\GitHub_Projects\WhereIsWaldo\WaldoCharGenerator\WaldoCharGenerator\obj\Debug\WaldoCharGenerator.pdb
